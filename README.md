@@ -16,3 +16,7 @@ See the [course Website](https://nlp.pages.doc.ic.ac.uk/spring2023/) for informa
 | Lab 06. Transformers for *seq2seq*               | Coming soon | Coming soon 
 | Lab 07. POS tagging                              | Coming soon | Coming soon 
 | Lab 08. Parsing (pen and paper)                  | Coming soon | Coming soon 
+
+## Acknowledgements
+
+The sessions have been updated from [NLPLabs-2022](https://github.com/ImperialNLP/NLPLabs-2022). Many thanks to the original contributors [GPPassos](https://github.com/GPPassos), [nihirv](https://github.com/nihirv), [joestacey](https://github.com/joestacey), [alexgaskell10](https://github.com/alexgaskell10), [AndyFou](https://github.com/AndyFou), and [lspecia](https://github.com/lspecia). This repository is currently edited by Carles Balsells-Rodas. For enquiries, send an email to cb221(at)imperial.ac.uk.
